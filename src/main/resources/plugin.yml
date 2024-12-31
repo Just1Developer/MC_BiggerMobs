@@ -1,0 +1,4 @@
+name: BiggerCreakings
+version: '1.0-SNAPSHOT'
+main: net.justonedev.mc.biggerCreakings.BiggerCreakings
+api-version: '1.21'
